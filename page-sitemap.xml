@@ -1,34 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yoursite-url</loc>
+        <loc>https://hujesse83.github.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>http://yoursite-url/archive/</loc>
+        <loc>https://hujesse83.github.io/bbs/</loc>
+        <lastmod>2021-12-24T14:14:06.690Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://hujesse83.github.io/about/</loc>
+        <lastmod>2021-12-24T13:59:23.591Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://hujesse83.github.io/categories/</loc>
+        <lastmod>2021-12-24T09:42:33.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://hujesse83.github.io/archive/</loc>
         <lastmod>2021-12-24T08:42:17.039Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite-url/tags/</loc>
+        <loc>https://hujesse83.github.io/tags/</loc>
         <lastmod>2021-12-24T08:42:12.980Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite-url/about/</loc>
-        <lastmod>2021-12-24T08:41:54.361Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://yoursite-url/404.html</loc>
+        <loc>https://hujesse83.github.io/404.html</loc>
         <lastmod>2021-12-24T05:57:04.477Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
